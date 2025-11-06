@@ -1,0 +1,1 @@
+print("Xin chao, The gioi")
