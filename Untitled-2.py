@@ -1,1 +1,1 @@
-print("Xin chao, The")
+print("Xin chao, Hatsune Miku!")
